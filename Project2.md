@@ -216,7 +216,3 @@ try {
 accessing page via web browser using http://projectlemp/todo_list.php
 
 ![](images/finalphp26.png)
-
-test test
-
-![](images/finalphp26.png)
